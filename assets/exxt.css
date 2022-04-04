@@ -1,0 +1,138 @@
+	body 
+	{
+		font: 13px/20px normal   sans-serif;
+	    margin:0px;
+		
+	}
+	.one 
+	{
+		color: red;
+		position: absolute;
+		
+		left:615px;
+	}
+	.two 
+	{
+		color: black;
+	}
+	h1 
+	{
+		color:black;
+		font-size: 25px;
+		font-weight: bold;
+		margin: 0 0 14px 0;
+		padding: 14px 15px 10px 15px;
+	}
+	.footer 
+	{
+		text-align: center;
+		font-size: 14px;
+		border-top: 1px solid #D0D0D0;
+		line-height: 43px;
+		padding: 0 10px 0 10px;
+		margin: 20px 0 0 0;
+		font-weight:bold;
+	}
+	.s
+	{
+		font-size: 19.8px;
+	}
+	.bck
+	{
+		background: rgb(224,82,16);
+        background: linear-gradient(180deg, rgba(224,82,16,1) 16%, 
+		                                    rgba(255,255,255,1) 50%, 
+											rgba(26,255,0,1) 94%);
+	    							
+	}
+	.size
+	{
+        width:100px;
+		height:120px;
+	}
+	.t
+	{
+		height:40px;
+		width: 70px;
+		font-weight:bold;
+		border-radius:10px;
+		background-color:red;
+	}
+	.t:hover
+	{
+		background-color:#cc33ff;
+	}
+	.i
+	{
+		height:25px;
+		width: 180px;
+		
+	}
+	
+	.hom
+	{
+		height:31px;
+		width: 64px;
+		font-weight:normal;
+		border-radius:9px;
+		background-color:transparent;
+		float:right;
+		position: absolute;
+        left: 954px;
+		font-size:13px;
+		text-decoration:none
+	}
+	.hom:hover
+	{
+		background-color:  #cc33ff;
+	}
+	.ad
+	{
+		height:31px;
+		width: 64px;
+		font-weight:normal;
+		border-radius:9px;
+		background-color:transparent;
+		float:right;
+		position: absolute;
+        left: 1024px;
+		font-size:13px;
+		text-decoration:none
+	}
+	.ad:hover
+	{
+		background-color:  #ffff1a;
+	}
+	.res
+	{
+		height:31px;
+		width: 67px;
+		font-weight:normal;
+		border-radius:9px;
+		background-color:transparent;
+		float:right;
+		font-size:13px;
+		position: absolute;
+        left: 1094px;
+	}
+	.res:hover
+	{
+		background-color:  #33cc33;
+	}
+	.con
+	{
+		height:31px;
+		width: 80px;
+		font-weight:normal;
+		border-radius:9px;
+		font-size:13px;
+		background-color:transparent;
+		float:right;
+		position: absolute;
+        left: 1164px;
+	}
+	.con:hover
+	{
+		background-color:   #3366ff;
+	}
+	
